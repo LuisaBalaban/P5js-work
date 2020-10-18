@@ -1,0 +1,17 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: monospace;
+/*   margin: 2em; */
+  align-items: center;
+  text-align:center;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+  font-family:"Quicksand", sans-serif
+}
+p{
+  margin-bottom:1rem;
+}
